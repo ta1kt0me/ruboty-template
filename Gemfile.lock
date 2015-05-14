@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/ta1kt0me/ruboty-fizzbuzz.git
+  revision: 8c4d8ed97647e085b51041ce072dc93cb2806a4f
+  specs:
+    ruboty-fizzbuzz (0.1.0)
+      ruboty
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -60,6 +67,7 @@ DEPENDENCIES
   rake
   ruboty-alias
   ruboty-cron
+  ruboty-fizzbuzz!
   ruboty-google_image
   ruboty-redis
   ruboty-slack
